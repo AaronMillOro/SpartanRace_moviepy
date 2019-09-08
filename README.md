@@ -8,5 +8,7 @@ This script have three main parts:
 The original videos size ranged between 15 Mb to 1.4 Gb
 Editing options are nicely detailed in the [documentation](https://zulko.github.io/moviepy/index.html) of Moviepy
 
+[Here](https://youtu.be/8bRfb2fSToQ) the final result of this awesome race.
+
 Enjoy! :shipit:
 
